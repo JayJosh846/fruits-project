@@ -1,0 +1,1 @@
+This is a way of learning database management with mongoose, carrying out CRUD operations
